@@ -14,7 +14,7 @@ capitals.update({'USA':'Las Vegas'}) # Change washington dc to las vegas
 
 capitals.pop('RUSSIA') # Remove RUSSIA
 
-# capitals.clear() # clear the dictionnary
+# capitals.clear() # clear the dictionary
 
 print(capitals['CHINA'])
 
